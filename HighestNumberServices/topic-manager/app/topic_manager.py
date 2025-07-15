@@ -18,7 +18,7 @@ class TopicManager:
       #if len(topic_scores_list)==1:
 
       for ts in topic_scores_list:
-          ts=topic_scores_list[0]
+         # ts=topic_scores_list[0]
           top_score = self._highest_number_finder.find_highest_number(ts.get_scores())
           top_sores.append(TopicTopScore(ts.get_topic_name(),top_score))
       return top_scores
