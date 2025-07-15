@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bc5ef5d8-e616-42d7-968f-eef94e05724d" name="Changes" comment="commit">
-      <change afterPath="$PROJECT_DIR$/HighestNumberServices/topic-manager/app/topic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HighestNumberServices/topic-manager/app/topic_scores.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/HighestNumberServices/topic-manager/app/topic_top_score.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HighestNumberServices/find-highest-number/app/highest_number_finder.py" beforeDir="false" afterPath="$PROJECT_DIR$/HighestNumberServices/find-highest-number/app/highest_number_finder.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HighestNumberServices/topic-manager/app/topic_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/HighestNumberServices/topic-manager/app/topic_manager.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/HighestNumberServices/topic-manager/tests/test_topic_manager.py" beforeDir="false" afterPath="$PROJECT_DIR$/HighestNumberServices/topic-manager/tests/test_topic_manager.py" afterDir="false" />
     </list>
@@ -121,7 +117,7 @@
       <option name="presentableId" value="Default" />
       <updated>1752500270490</updated>
       <workItem from="1752500271313" duration="5139000" />
-      <workItem from="1752568949064" duration="8790000" />
+      <workItem from="1752568949064" duration="12005000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -155,7 +151,15 @@
       <option name="project" value="LOCAL" />
       <updated>1752574403222</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1752578592105</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1752578592105</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +197,6 @@
     <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/Barclays_Python_TDD$.coverage" NAME=" Coverage Results" MODIFIED="1752578180342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HighestNumberServices/topic-manager/tests" />
+    <SUITE FILE_PATH="coverage/Barclays_Python_TDD$.coverage" NAME=" Coverage Results" MODIFIED="1752584586799" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/HighestNumberServices/topic-manager/tests" />
   </component>
 </project>
